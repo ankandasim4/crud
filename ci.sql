@@ -1,6 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.5.4.1deb2ubuntu2
 -- http://www.phpmyadmin.net
+-- checking github pushes
 --
 -- Host: localhost
 -- Generation Time: Feb 14, 2017 at 11:19 AM
@@ -15,6 +16,7 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
+
 
 --
 -- Database: `crud`
